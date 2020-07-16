@@ -1,7 +1,14 @@
-THE CLASSIC TIC TAC TOE or ZERO KAANTA
+#THE CLASSIC TIC TAC TOE or ZERO KAANTA
 
-This is my first ever game in python. Built using basic programming concepts and logics.
+This is my first ever game in python :)
 
-So play, and have fun.
+Concepts Used:
+    Functions
+    Loops
+    Conditional Statements
+    Logic Of Game
+    
+    
+##So play, and have fun.
 
-KB.
+###KB.
